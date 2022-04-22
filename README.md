@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lehlohonolo-Sehako
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning more about Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developing predictive Machine Learning models
 - 📫 How to reach me ...
 
 <!---
