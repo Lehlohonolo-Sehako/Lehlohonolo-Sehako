@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lehlohonolo-Sehako
-- 👀 I’m interested in Software Engineering & Machine Learning
-- 🌱 I’m currently learning more about Machine Learning
-- 💞️ I’m looking to collaborate on developing predictive Machine Learning models
+- 👀 I’m interested in Software Engineering & Artificial Intelligence
+- 🌱 I’m currently learning more about Swarm Intelligence
+- 💞️ I’m looking to collaborate on understanding why humans behave the way they do
 <!--- 📫 How to reach me ...--->
 
 <!---
